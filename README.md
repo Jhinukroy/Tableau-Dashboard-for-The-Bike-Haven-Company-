@@ -47,7 +47,7 @@ Instead of relying on rigid, rows-and-columns data, the new visual framework giv
 ## 🧑‍💻 How to View the Project
 
 *   **Local Desktop:** 
-    1. Download the `The_Bike_Haven_Sales_Analysis.twbx` file from this repository.
+    1. Download the `The Bike Haven.twb` file from this repository.
     2. Open it using Tableau Desktop or the free [Tableau Reader](https://www.tableau.com/products/reader).
 
 ---
